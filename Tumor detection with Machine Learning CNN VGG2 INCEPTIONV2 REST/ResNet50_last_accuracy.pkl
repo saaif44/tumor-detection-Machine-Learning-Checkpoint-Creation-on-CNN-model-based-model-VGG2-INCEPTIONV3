@@ -1,0 +1,1 @@
+Final Validation Accuracy for ResNet50 Model: 0.984375

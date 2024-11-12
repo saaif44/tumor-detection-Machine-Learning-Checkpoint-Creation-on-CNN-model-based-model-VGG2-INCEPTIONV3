@@ -1,0 +1,1 @@
+Final Validation Accuracy for VGG16 Model: 0.95703125
